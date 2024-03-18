@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second Hand Cars</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .car {
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            padding: 20px;
+            overflow: hidden;
+        }
+        .car img {
+            max-width: 100%;
+            height: auto;
+        }
+        .search {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Second Hand Cars</h1>
+    </header>
+    <div class="container">
+        <div class="search">
+            <input type="text" placeholder="Search...">
+            <button>Search</button>
+        </div>
+        <div class="car">
+            <img src="car1.jpg" alt="Car">
+            <h2>Car Model 1</h2>
+            <p>Year: 2018</p>
+            <p>Price: $10,000</p>
+            <button>Contact Seller</button>
+        </div>
+        <div class="car">
+            <img src="car2.jpg" alt="Car">
+            <h2>Car Model 2</h2>
+            <p>Year: 2016</p>
+            <p>Price: $8,500</p>
+            <button>Contact Seller</button>
+        </div>
+        <!-- More car listings can go here -->
+    </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second Hand Cars</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .car {
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            padding: 20px;
+            overflow: hidden;
+        }
+        .car img {
+            max-width: 100%;
+            height: auto;
+        }
+        .search {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Second Hand Cars</h1>
+    </header>
+    <div class="container">
+        <div class="search">
+            <input type="text" placeholder="Search...">
+            <button>Search</button>
+        </div>
+        <div class="car">
+            <img src="car1.jpg" alt="Car">
+            <h2>Car Model 1</h2>
+            <p>Year: 2018</p>
+            <p>Price: $10,000</p>
+            <button>Contact Seller</button>
+        </div>
+        <div class="car">
+            <img src="car2.jpg" alt="Car">
+            <h2>Car Model 2</h2>
+            <p>Year: 2016</p>
+            <p>Price: $8,500</p>
+            <button>Contact Seller</button>
+        </div>
+        <!-- More car listings can go here -->
+    </div>
+
